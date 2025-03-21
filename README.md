@@ -1,5 +1,7 @@
 # ORMA: *O*ptimal T*R*ansport-based *M*ulti-grained *A*lignments
 
+Code from "Exploring optimal transport-based multi-grained alignments for text-molecule retrieval" (IEEE BIBM 2024)
+
 ## Training Models
 To train the model, use the following command:
 
